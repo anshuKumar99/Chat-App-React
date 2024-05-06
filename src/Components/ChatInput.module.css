@@ -1,0 +1,38 @@
+.typeMessage{
+  width: 100%;
+  position: relative; 
+  display: inline-block; 
+}
+
+.input{
+
+  margin: 10px; 
+  padding: 10px; 
+  width: 100%; 
+  outline: none; 
+  height: 7vh; 
+  border-radius: 25px; 
+}
+
+.sendbutton{
+  position: absolute; 
+  border-radius: 0px 25px 25px 0px; 
+  right: -10px; 
+  border: none; 
+  top: 10px;
+  height: 7vh; 
+  width: 3rem;
+  cursor: pointer; 
+  color: white; 
+  background-color: #1e90ff; 
+}
+
+.emojibutton{
+  position: absolute;
+  top: 15px;
+  right: 40px;
+  border: none; 
+  font-size: 20px; 
+  background-color: white;
+
+}
